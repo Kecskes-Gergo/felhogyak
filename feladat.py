@@ -1,1 +1,1 @@
-print("Gyak")
+print("Gyak") #ugymond
